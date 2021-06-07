@@ -1,0 +1,3 @@
+(require 'vc)
+(require 'xml)
+

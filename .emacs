@@ -1,0 +1,11 @@
+(load-file "~/.tshalif-emacs/packages.el")
+(load-file "~/.tshalif-emacs/require.el")
+(load-file "~/.tshalif-emacs/functions.el")
+(load-file "~/.tshalif-emacs/settings.el")
+(load-file "~/.tshalif-emacs/bindings.el")
+(load-file "~/.tshalif-emacs/php.el")
+(load-file "~/.tshalif-emacs/xsl.el")
+(load-file "~/.tshalif-emacs/python-elpy-jedi.el")
+(load-file "~/.tshalif-emacs/js.el")
+
+(server-start)
